@@ -33,3 +33,6 @@ _글자를 기울이게_
 ```python
 print("'Hello World'는 국룰")
 ```
+```python
+print("저도 잠시 실례하겠습니다")
+```
